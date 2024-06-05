@@ -12,12 +12,6 @@ public class Driver {
 		
 		System.out.println("7 Radius Cirlce Area:" + shape.circleArea(7));
 		
-		System.out.println("7 Radius Cirlce Area:" + shape.circleArea(7));
-		
-		System.out.println("7 Radius Cirlce Area:" + shape.circleArea(7));
-		
-		System.out.println("7 Radius Cirlce Area:" + shape.circleArea(7));
-		
 	}
 
 }
